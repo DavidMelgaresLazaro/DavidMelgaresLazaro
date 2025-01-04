@@ -1,4 +1,4 @@
-# 💻 David Melgares Lázaro - Full Stack Developer
+# 💻 David Melgares - Full Stack Developer
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador **Full Stack** apasionado por la tecnología y en constante aprendizaje. Me encanta explorar nuevas tecnologías y trabajar en proyectos colaborativos que tengan un impacto positivo.
 
