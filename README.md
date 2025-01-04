@@ -23,28 +23,40 @@ Una **página web interactiva y dinámica** desarrollada con **React.js**, dise�
 
 ---
 
-### 📱 [TFG Realidad Aumentada](https://github.com/DavidMelgaresLazaro/TFG_RealidadAumentada)  
-Este proyecto es mi **Trabajo de Fin de Grado**, donde exploré las posibilidades de la **Realidad Aumentada** (AR) aplicada en aplicaciones web.
+# 📱 Aplicación de Realidad Aumentada para Android
+Este proyecto utiliza **ARCore**, la plataforma de realidad aumentada de Google, para superponer modelos 3D en el mundo real a través de la cámara del dispositivo. Los usuarios pueden capturar imágenes que combinan objetos virtuales con el entorno real y gestionarlas dentro de la aplicación. Los datos se almacenan localmente y se sincronizan con **Firebase** para garantizar la seguridad y disponibilidad de la información.
 
-#### 🛠 Tecnologías Utilizadas:
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Librerías AR:** A-Frame, Three.js
-- **Herramientas de Desarrollo:** Visual Studio Code, Git
+## 🛠 Tecnologías Utilizadas
+- **ARCore** (para la implementación de la Realidad Aumentada)
+- **Firebase** (para la sincronización y almacenamiento de datos)
+- **Android Studio** (para el desarrollo de la aplicación)
+- **Java** (lenguaje de programación)
+- **Gradle** (gestión de dependencias)
+- **OpenGL ES / 3D Models** (para visualización de modelos 3D)
 
 #### ✨ Características Clave:
-- Implementación de experiencias de **Realidad Aumentada** accesibles a través del navegador.  
-- Uso de **modelos 3D interactivos** que los usuarios pueden explorar desde cualquier dispositivo.  
-- Interfaz de usuario simple y accesible, ideal para usuarios sin experiencia previa en AR.
+- **Integración con ARCore** para superponer modelos 3D en el mundo real utilizando la cámara del dispositivo.
+- **Captura de imágenes en AR** que permiten combinar elementos virtuales con el entorno real.
+- **Sincronización de datos con Firebase** para almacenar y gestionar fotos y datos de manera segura y accesible.
+- **Interacción en tiempo real** con el entorno para colocar, mover y ajustar modelos 3D sobre superficies detectadas.
+- **Almacenamiento local** para guardar datos en el dispositivo, con respaldo y sincronización en la nube.
+- **Gestión de permisos** para garantizar el correcto acceso a la cámara, almacenamiento y ubicación del dispositivo.
+- **Compatibilidad con dispositivos Android** que soporten ARCore, asegurando una amplia gama de dispositivos.
+- **Interfaz intuitiva** que permite a los usuarios tomar fotos, agregar comentarios y gestionar sus capturas de manera sencilla.
+- **Optimización del rendimiento** para una experiencia de usuario fluida, incluso en entornos complejos de AR.
 
 ---
 
 ## 🛠️ Habilidades
 
-- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Desarrollo Móvil:** Android, ARCore, Java, Kotlin
+- **Frontend:** React.js, JavaScript, HTML, CSS, OpenGL ES  
 - **Backend:** Node.js, Express  
-- **Bases de datos:** MongoDB, MySQL  
-- **DevOps:** Docker, CI/CD  
-- **Otros:** Typescript, Git, APIs REST  
+- **Bases de datos:** PostreSQL, MySQL, Firebase Realtime Database, Firestore  
+- **DevOps:**  CI/CD  
+- **Control de versiones:** Git  
+- **Otros:** TypeScript, APIs REST, Gradle  
+- **Optimización:** Herramientas de rendimiento en AR (como ARCore Profiler)
 
 ---
 
